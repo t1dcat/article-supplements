@@ -1,0 +1,1 @@
+Configuration of the digital twin of Patient 5 for the three next days a), b), c) respectively.

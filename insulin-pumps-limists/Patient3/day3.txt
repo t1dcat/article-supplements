@@ -1,0 +1,5 @@
+Analysis of the day 3 of the Patient 3:
+a) insulin base [hh:mm U/h]: 00:00 0.3, 01:00 0.2, 11:00 0.25, 17:00 0.3,
+b) ingested carbs [hh:mm C]: 07:45 2, 11:24 1, 14:07 3.5, 16:26 2.5, 20:11 3, insulin boluses [hh:mm U]: 06:36 0.4, 07:45 1.2, 11:24 0.5, 12:54 0.7, 14:07 1.8, 16:26 0.5, 20:11 0.6,
+c) historical and simulated blood glucose levels,
+d) relative simulation error.
