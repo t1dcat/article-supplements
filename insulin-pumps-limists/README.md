@@ -1,4 +1,4 @@
-Supplementary materials to the article: <br> 
+Supplementary materials for the paper: <br> 
 
 # Investigation on the limits of type 1 diabetes therapy automation using insulin pumps <br>
 Tomasz Nowicki Robert Piekarski
